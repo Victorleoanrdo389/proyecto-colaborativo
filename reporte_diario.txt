@@ -2,3 +2,6 @@
 - Tareas completadas:
   1. Revisión de código
   2. Documentación
+\n- Modificado por José:
+  3. Optimización de funciones
+  4. Pruebas unitarias
